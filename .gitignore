@@ -1,0 +1,5 @@
+# Ignore terraform provider and module files
+.terraform/
+*.tfstate
+*.tfstate.backup
+
